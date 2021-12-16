@@ -1,4 +1,4 @@
-# OpenGL-
+# OpenGL-C++
 I created realistic, interactive, 3D objects by using of application programming interface (API) libraries and C++.  For this project I picked a tea box, Christmas glove, a Yeti cup, and a vitamin bottle on a black leather pad. The reason I chose these items is that it was easy to clearly demonstrate primitive shapes.  The tea box is cube, the Christmas glove is a sphere, the Yeti cup is a cylinder, and a vitamin bottle is a cylinder with the black leather pad as a plane. 
 
 Here are the project requirements and how I approached to program these shapes. 
